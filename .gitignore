@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log*
+*.log
+
+# Frontend build artifacts
+frontend/dist/
+
+# Backend data/logs
+backend/.env
+backend/.env.local
+backend/.env.*.local
+
+# Frontend envs
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Coverage / temp
+coverage/
+*.tmp
+*.swp
+
