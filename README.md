@@ -32,7 +32,7 @@ PORT=4000
 The frontend reads the API base from `VITE_API_URL` (defaults to the deployed backend at `https://taskly-mern-manager-production.up.railway.app`). Create a `.env` inside `frontend` if you need to override:
 
 ```
-VITE_API_URL=https://your-api.example.com
+VITE_API_URL=https://taskly-mern-manager-production.up.railway.app
 ```
 
 ### Mock Credentials
